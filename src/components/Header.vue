@@ -13,7 +13,6 @@
 </template>
 
 <script lang="ts" setup>
-import { defineProps } from 'vue';
 import { useHeaderTitleStore } from '../stores/headerTitle';
 const props = defineProps({
   showBack: {
