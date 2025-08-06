@@ -2,10 +2,12 @@
 [x] - Install Pinia
 [x] - Install Daisy UI
 [x] - Add Tailwind
+[x] - Install axios
 [x] - Design a general layout
 [x] - Create homepage
-[] - Create a form to TODO tasks
+[x] - Create a form to TODO tasks
+[] - Create popups to forms and messages
 [] - Setting up filters
-[] - Store data at fake-API (jsonplaceholder)
+[x] - Store data at fake-API (jsonplaceholder)
 [x] - Setting routers with VueRouter
 [x] - Store states with Pinia
