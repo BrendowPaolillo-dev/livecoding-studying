@@ -1,0 +1,11 @@
+[x] - Install VueRouter
+[x] - Install Pinia
+[x] - Install Daisy UI
+[x] - Add Tailwind
+[x] - Design a general layout
+[x] - Create homepage
+[] - Create a form to TODO tasks
+[] - Setting up filters
+[] - Store data at fake-API (jsonplaceholder)
+[x] - Setting routers with VueRouter
+[x] - Store states with Pinia
